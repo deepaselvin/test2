@@ -3,7 +3,7 @@ package github;
 public class Name {
 
 	public static void main(String[] args) {
- String name=" ";
+ String name=" deepa";
  if(name=="hello" )
 	 System.out.println("valid");
  else if(name==" ")
